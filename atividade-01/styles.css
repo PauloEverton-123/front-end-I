@@ -1,5 +1,22 @@
-p{
-    background-color:rgb(rgb(233, 15, 15), rgb(5, 228, 228), rgb(9, 192, 24));
+* {
+    border: 2px solid black;
+    padding: 20px;
+}
+
+section, div {
+    background-color:red;
     font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
+    border: none;
+    pad: 0px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.paragrafoEspecial  {
+    background-color: yellow;
+}
+
+#paragrafoInicial {
+    font-weight: 700;
 }
